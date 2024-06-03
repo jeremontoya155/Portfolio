@@ -1,0 +1,5 @@
+Django==5.0.4
+python-dotenv
+whitenoise
+gunicorn
+# Añade aquí cualquier otra dependencia que estés utilizando
